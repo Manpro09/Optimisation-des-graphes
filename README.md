@@ -1,1 +1,3 @@
 # Optimisation-des-graphes
+
+Ce projet vise à résoudre les défis de la gestion du trafic urbain en proposant une stratégie innovante : transformer les rues bi-directionnelles en sens uniques pour fluidifier la circulation. En se basant sur le théorème de Robbins (1939), nous explorons la possibilité d'orienter un graphe non orienté en un graphe fortement connexe, crucial pour une planification urbaine efficace. Nous mettons en œuvre les algorithmes de Schmidt pour identifier les composantes 2-connexes et 2-arêtes connexes du graphe, offrant ainsi une méthode concrète pour répondre à cette question fondamentale
